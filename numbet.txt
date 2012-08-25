@@ -4,8 +4,5 @@ two
 four
 five
 six
-<<<<<<< .merge_file_a06052
 seven
-=======
 ten
->>>>>>> .merge_file_a05188
